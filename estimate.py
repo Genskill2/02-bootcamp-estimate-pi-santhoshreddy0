@@ -1,6 +1,6 @@
 import math
 import unittest
-
+import random as r
 def wallis(n):
   z=1.0;pi=1.0
   for i in range(1,n+1):
